@@ -31,3 +31,52 @@ header nav .lastlink{
 #logo{
   height: 50px
 }
+#cover{
+  text-align: center;
+  background-image: url(https://www.optimal-partners.com/site_images/ourServicesHeader.jpg);
+  padding: 60px 0;
+  height: 50px;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+h1{
+  color: white;
+  font-family: "Montserrat light";
+  font-size: 40px;
+}
+#info{
+  text-align: center;
+  background-color: white;
+  padding: 60px 0;
+
+}
+h2{
+  color: #107698;
+  font-family: "Montserrat light";
+  font-size: 30px;
+}
+#info p{
+  color: #a8969e;
+  font-family:"Montserrat light";
+  font-size: 15px;
+  width: 1000px;
+  margin: auto;
+}
+#info2{
+  text-align: center;
+  background-color: #edeff3;
+  padding: 60px 0;
+  height: 70px;
+}
+#info2 p{
+  color: black;
+  font-family:"Montserrat light";
+  font-size: 15px;
+  width: 1000px;
+  margin: auto;
+}
+h3{
+  color: #282828;
+  font-family: "Montserrat light";
+  font-size: 30px;
+}
