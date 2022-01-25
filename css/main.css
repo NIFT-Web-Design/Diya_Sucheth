@@ -1,0 +1,33 @@
+header{
+  background-color: #282828;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 200px;
+padding-right: 200px;
+}
+header > div{
+  display: flex;
+  justify-content: space-between;
+}
+header nav{
+  display: flex;
+  align-items: center;
+}
+header nav a{
+  margin: 10px;
+  font-size: 12px;
+  color: white;
+  font-family: "Montserrat";
+  text-decoration: none;
+}
+header nav .lastlink{
+  color: #f9c83b;
+}
+.active{
+  background-color: #107698;
+  padding: 8px;
+  border-radius: 3px;
+}
+#logo{
+  height: 50px
+}
