@@ -1,0 +1,91 @@
+body{
+  background-color: #4F4F4F;
+}
+@font-face {
+  font-family: "Bebas Neue Regular";
+  src: url(font/BebasNeue-Regular.ttf);
+}
+
+.maindiv{
+  width: 800px;
+  background-color: white;
+  margin: auto;
+  display: flex;
+}
+.left{
+  padding-left: 50px;
+  padding-top: 55px;
+  width: 380px;
+}
+.right{
+  padding-left: 40px;
+  padding-right: 50px;
+  padding-top: 55px;
+  width: 380px;
+}
+.image{
+  height: 390px;
+  margin-bottom: 90px;
+}
+.skills{
+  display: flex;
+  width: 320px;
+}
+.name{
+  width: 140px;
+}
+.software{
+  margin-top: 6px;
+  font-size: 12px;
+  font-family: "arial";
+  line-height: normal;
+
+}
+.score{
+  width: 140px;
+}
+.marks{
+  height: 16px;
+}
+h3{
+  font-family: "Bebas Neue Regular";
+  color: #c7998c;
+  font-size: 25px;
+}
+h1{
+  font-family: "Bebas Neue Regular";
+  color: #303f3c;
+  font-size: 90px;
+  text-align: right;
+}
+h2{
+  font font-family: "arial";
+  color: #c7998c;
+  text-align: right;
+  font-size: 25px;
+}
+
+.aboutme{
+  font-size: 14px;
+  font-family: "arial";
+  font-style: italic;
+  line-height: normal;
+  padding-right: 40px
+  color: #777777;
+  font-weight: lighter;
+
+}
+.boldtext{
+  font-size: 12px;
+  font-family: "arial";
+font-weight: bold;
+}
+.exp{
+  position: relative;
+  left: 30px;
+  font-size: 12px;
+  font-family: "arial";
+  line-height: normal;
+  padding-right: 40px
+
+}
