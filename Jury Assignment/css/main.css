@@ -1,5 +1,5 @@
 body{
-  background-color: white;
+  background-color: #000000;
 }
 header{
   background-color: #000000;
@@ -197,51 +197,149 @@ line-height: 24px;
 color: #FFFFFF;
 
 }
-.contact{
+.present{
   position: absolute;
 width: 1920px;
-height: 517px;
+height: 733px;
 left: 0px;
 top: 2544px;
 
 background: #FFFFFF;
 }
-.conus{
+.psoc{
   position: absolute;
 width: 426px;
-height: 38px;
-left: 750px;
-top: 2762px;
+height: 150px;
+left: 311px;
+top: 2633px;
 
 font-family: 'Montserrat';
 font-style: normal;
 font-weight: 400;
-font-size: 30px;
-line-height: 38px;
+font-size: 55px;
+line-height: 75px;
+
+color: #000000;
+
+}
+.pinfo{
+  position: absolute;
+width: 515px;
+height: 367px;
+left: 311px;
+top: 2821px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+.pimg{
+  position: absolute;
+width: 690px;
+height: 462px;
+left: 917px;
+top: 2681px;
+
+}
+
+.workshop{
+  position: absolute;
+width: 1920px;
+height: 255px;
+left: 0px;
+top: 3277px;
+
+background: #121214;
+}
+.enroll{
+  position: absolute;
+width: 711px;
+height: 75px;
+left: 604px;
+top: 3337px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 45px;
+line-height: 75px;
 
 text-align: center;
 
-color: #121214;
+color: #FFFFFF;
+
+}
+.eninfo{
+  position: absolute;
+width: 1079px;
+height: 24px;
+left: 420px;
+top: 3428px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #FFFFFF;
+
+}
+
+.contact{
+  position: absolute;
+width: 1920px;
+height: 517px;
+left: 0px;
+top: 3512px;
+
+background: #FFFFFF;
+}
+.conus{
+  position: absolute;
+  width: 426px;
+  height: 38px;
+  left: 750px;
+  top: 3730px;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 38px;
+  text-align: center;
+
+  color: #121214;
+
+
 }
 .insta{
   position: absolute;
 width: 58px;
 height: 58px;
 left: 827px;
-top: 2824px;
+top: 3792px;
 }
 .fb{
   position: absolute;
-width: 53px;
-height: 59px;
-left: 936px;
-top: 2823px;
+  width: 53px;
+  height: 59px;
+  left: 936px;
+  top: 3791px;
 
 }
 .twi{
-  position: absolute;
+
+position: absolute;
 width: 54px;
 height: 54px;
 left: 1039px;
-top: 2826px;
+top: 3794px;
+
 }
