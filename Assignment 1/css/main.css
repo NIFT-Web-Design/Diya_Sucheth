@@ -29,7 +29,12 @@ header nav .lastlink{
   border-radius: 3px;
 }
 #logo{
-  height: 50px
+  position: absolute;
+  width: 201px;
+  height: 51px;
+  left: 286px;
+  top: 39px;
+
 }
 #cover{
   text-align: center;

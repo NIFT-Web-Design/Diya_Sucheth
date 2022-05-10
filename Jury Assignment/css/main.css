@@ -1,0 +1,247 @@
+body{
+  background-color: white;
+}
+header{
+  background-color: #000000;
+}
+.image{
+  position: absolute;
+width: 1920px;
+height: 960px;
+left: 0px;
+top: 128px;
+background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.9) 100%);
+}
+.tabs1{
+  position: absolute;
+width: 81px;
+height: 38px;
+left: 1093px;
+top: 55px;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+color: #FFFFFF;
+}
+.tabs2{
+  position: absolute;
+width: 101px;
+height: 38px;
+left: 1233px;
+top: 55px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+color: #FFFFFF;
+}
+.tabs3{
+  position: absolute;
+width: 146px;
+height: 38px;
+left: 1393px;
+top: 55px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+color: #FFFFFF;
+}
+
+#logo{
+  position: absolute;
+width: 201px;
+height: 51px;
+left: 286px;
+top: 39px;
+
+}
+
+.image{
+  position: absolute;
+  width: 1920px;
+  height: 960px;
+  left: 0px;
+  top: 128px;
+}
+.bold{
+  position: absolute;
+width: 802px;
+height: 100px;
+left: 559px;
+top: 775px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 100px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.para{
+  position: absolute;
+width: 1064px;
+height: 189px;
+left: 428px;
+top: 898px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+
+color: #FFFFFF;
+}
+.history{
+  position: absolute;
+width: 1920px;
+height: 733px;
+left: 0px;
+top: 1083px;
+
+background: #FFFFFF;
+}
+.thotc{
+  position: absolute;
+width: 426px;
+height: 150px;
+left: 311px;
+top: 1238px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 75px;
+
+color: #000000;
+}
+.hisinfo{
+
+position: absolute;
+width: 515px;
+height: 189px;
+left: 311px;
+top: 1426px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #000000;
+
+}
+.hisimg{
+  position: absolute;
+width: 635px;
+height: 428px;
+left: 1004px;
+top: 1238px;
+}
+.artist{
+  position: absolute;
+width: 1920px;
+height: 728px;
+left: 0px;
+top: 1816px;
+
+background: #121214;
+}
+.artimg{
+  position: absolute;
+width: 472px;
+height: 532px;
+left: 281px;
+top: 1915px;
+}
+.aoa{
+  position: absolute;
+width: 535px;
+height: 75px;
+left: 1004px;
+top: 1924px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 75px;
+
+color: #FFFFFF;
+}
+.aoainfo{
+  position: absolute;
+width: 515px;
+height: 397px;
+left: 1004px;
+top: 2038px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+
+color: #FFFFFF;
+
+}
+.contact{
+  position: absolute;
+width: 1920px;
+height: 517px;
+left: 0px;
+top: 2544px;
+
+background: #FFFFFF;
+}
+.conus{
+  position: absolute;
+width: 426px;
+height: 38px;
+left: 750px;
+top: 2762px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+
+text-align: center;
+
+color: #121214;
+}
+.insta{
+  position: absolute;
+width: 58px;
+height: 58px;
+left: 827px;
+top: 2824px;
+}
+.fb{
+  position: absolute;
+width: 53px;
+height: 59px;
+left: 936px;
+top: 2823px;
+
+}
+.twi{
+  position: absolute;
+width: 54px;
+height: 54px;
+left: 1039px;
+top: 2826px;
+}
